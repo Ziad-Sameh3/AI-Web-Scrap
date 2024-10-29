@@ -1,0 +1,10 @@
+streamlit 
+google.generativeai
+selenium
+beautifulsoup4
+lxml 
+html5lib
+python-dotenv
+chromedriver-autoinstaller
+webdriver-manager
+pyppeteer
